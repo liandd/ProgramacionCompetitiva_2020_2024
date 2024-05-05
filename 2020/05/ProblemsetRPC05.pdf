@@ -1,0 +1,6 @@
+<html><head><title>Download Page</title><script language="JavaScript">
+alert('Unable to open file (ProblemsetRPC05.pdf)');
+</script>
+<script language="JavaScript">
+document.location='index.php';
+</script></html>
